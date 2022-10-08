@@ -22,3 +22,15 @@ elif d == 0:
     print(x)
 else:
     print('нет корней')
+
+# x = Symbol('x')
+# y = Symbol('y')
+# # x = -1.038
+# # y = 3**0.5
+# t = (2*x + 3*y)**2 - 3*x*(4/3*x+4*y)
+# simplify(t)
+# f = 4*x**4-65*x**2+16
+# solve(f)
+# print(f)
+# Математическая библиотека Python SymPy
+# https://pythonru.com/biblioteki/sympy-v-python
